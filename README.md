@@ -21,8 +21,19 @@ Author: Peter Bollhorn
 - Mobile and Desktop friendly
 
 ## Tech Stack
+
+### Frontend
 - React 19
 
+### Backend
+- **Java 17** - Programming language
+- **Maven** - Build tool and dependency management
+- **Javalin** - Lightweight web framework
+- **Hibernate** - ORM for database access
+- **PostgreSQL** - Database
+- **SLF4J/Logback** - Logging
+- **Jackson** - JSON serialization/deserialization
+- **Lombok** - Reduces boilerplate code
 
 
 ## TMDB
