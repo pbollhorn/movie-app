@@ -19,7 +19,7 @@ Author: Peter Bollhorn
 - View list of movies in collection
 - Rate movies 😀 (Good) or 😐 (OK/Bad)
 - Get personalized recommendations based on your ratings
-- Mobile and Desktop friendly
+- Mobile and desktop friendly
 - Automatic light/dark mode according to browser setting
 
 ## Tech Stack
@@ -38,7 +38,7 @@ Author: Peter Bollhorn
 - **Lombok** - Reduces boilerplate code
 
 
-## TMDB
+## TMDB (The Movie Database)
 This web app uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB.
 
 Link to TMDB: https://www.themoviedb.org/
