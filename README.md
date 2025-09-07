@@ -14,11 +14,13 @@ Author: Peter Bollhorn
 
 - Search ~90.000 movies via fuzzy search
 - See movie posters
-- See movie details including all cast and crew members
-- See movies for particular cast/crew member
+- View movie details, including full cast and crew, and if the movie belongs to a collection
+- View list of movies for cast/crew member
+- View list of movies in collection
 - Rate movies 😀 (Good) or 😐 (OK/Bad)
-- Get recommendations based on your ratings
+- Get personalized recommendations based on your ratings
 - Mobile and Desktop friendly
+- Automatic light/dark mode according to browser setting
 
 ## Tech Stack
 
