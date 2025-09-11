@@ -26,6 +26,7 @@ Author: Peter Bollhorn
 
 ### Frontend
 - React 19
+- CSS Modules
 
 ### Backend
 - **Java 17** - Programming language
