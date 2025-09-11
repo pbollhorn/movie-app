@@ -12,7 +12,7 @@ Author: Peter Bollhorn
 
 ## Features
 
-- Search ~90,000 movies via trigram based fuzzy search
+- Search ~90,000 movies via trigram-based fuzzy search
 - See movie posters
 - View movie details, including full cast and crew, and if the movie belongs to a collection
 - View list of movies for cast/crew member
@@ -44,7 +44,8 @@ Author: Peter Bollhorn
 - **Lombok** - Reduces boilerplate code
 
 ### Database
-- **PostgreSQL**
+- **PostgreSQL** – relational database
+- pg_trgm - extension used for trigram-based fuzzy search
 
 ### Deployment & Hosting
 - GitHub Action (CI/CD pipeline)
