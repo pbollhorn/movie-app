@@ -27,6 +27,12 @@ Author: Peter Bollhorn
 ### Frontend
 - React 19
 - CSS Modules
+- React 19 – for building the user interface
+- React Router DOM – for client-side routing
+- Vite – as the build tool and development server
+- CSS Modules – for scoped and modular styling
+- ESLint – for code linting and quality assurance
+- VS Code – as the code editor
 
 ### Backend
 - **Java 17** - Programming language
