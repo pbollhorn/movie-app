@@ -37,9 +37,9 @@ Author: Peter Bollhorn
 ## Tech Stack
 
 ### Frontend
-- React 19 – For building the user interface
-- CSS Modules – For scoped and modular styling
-- React Router DOM – For client-side routing
+- React 19 - For building the user interface
+- CSS Modules - For scoped and modular styling
+- React Router DOM - For client-side routing
 
 ### Backend
 - Java 17 - Programming language
@@ -61,9 +61,9 @@ Author: Peter Bollhorn
 - Ubuntu 22 - OS running on the cloud server
 
 ### Tools
-- VS Code – For frontend development
-- IntelliJ IDEA – For backend development
-- pgAdmin – For database management
+- VS Code - For frontend development
+- IntelliJ IDEA - For backend development
+- pgAdmin - For database management
 
 ## TMDB (The Movie Database)
 This web app uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB.
