@@ -37,7 +37,7 @@ Author: Peter Bollhorn
 ## Tech Stack
 
 ### Frontend
-- React 19 - JavaScript library for building the user interface
+- React 19 - JavaScript library for building UI
 - CSS Modules - For scoped and modular styling
 - React Router DOM - For client-side routing
 
