@@ -13,7 +13,7 @@ Author: Peter Bollhorn
 ## Features
 
 - Search ~90,000 movies via trigram-based fuzzy search
-- See movie posters
+- View movie posters
 - View movie details, including full cast and crew, and if the movie belongs to a collection
 - View list of movies for cast/crew member
 - View list of movies in collection
