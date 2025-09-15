@@ -44,8 +44,8 @@ Author: Peter Bollhorn
 - **Lombok** - Reduces boilerplate code
 
 ### Database
-- **PostgreSQL** – relational database
-- pg_trgm - extension used for trigram-based fuzzy search
+- **PostgreSQL** - Relational database
+- pg_trgm - Extension used for trigram-based fuzzy search
 
 ### Deployment & Hosting
 - GitHub Action (CI/CD pipeline)
