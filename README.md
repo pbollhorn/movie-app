@@ -50,8 +50,8 @@ Author: Peter Bollhorn
 ### Deployment & Hosting
 - GitHub Action (CI/CD pipeline)
 - Docker / Docker Compose
-- Digital Ocean
-- Ubuntu
+- DigitalOcean - Cloud hosting provider
+- Ubuntu - OS running on the cloud server (DigitalOcean Droplet)
 
 ### Tools
 - VS Code – For frontend development
