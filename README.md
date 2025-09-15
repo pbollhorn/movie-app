@@ -55,10 +55,10 @@ Author: Peter Bollhorn
 - pg_trgm - Extension used for trigram-based fuzzy search
 
 ### Deployment & Hosting
-- GitHub Action (CI/CD pipeline)
-- Docker / Docker Compose
+- GitHub Actions - For CI/CD pipeline
 - DigitalOcean - Cloud hosting provider
 - Ubuntu 22 - OS running on the cloud server
+- Docker - For containerization
 
 ### Tools
 - VS Code - For frontend development
