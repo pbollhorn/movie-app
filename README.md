@@ -22,6 +22,8 @@ Author: Peter Bollhorn
 - Mobile and desktop friendly
 - Automatic light/dark mode according to browser setting
 
+## Screenshots of deployed web app
+
 <table>
 <tr>
   <td><img src="screenshots/screenshot1.jpg" width="300"></td>
@@ -30,13 +32,6 @@ Author: Peter Bollhorn
   <td><img src="screenshots/screenshot4.jpg" width="300"></td>
 </tr>
 </table>
-
-
-## Screenshots
-
-| ![Screenshot 1](screenshots/screenshot1.jpg) | ![Screenshot 2](screenshots/screenshot2.jpg) |
-|:--:|:--:|
-| ![Screenshot 3](screenshots/screenshot3.jpg) | ![Screenshot 4](screenshots/screenshot4.jpg) |
 
 
 ## Tech Stack
