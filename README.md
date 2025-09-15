@@ -10,18 +10,6 @@ Link to repo for backend project: https://github.com/pbollhorn/movie-app-backend
 
 Author: Peter Bollhorn
 
-## Features
-
-- Search ~90,000 movies via trigram-based fuzzy search
-- View movie posters
-- View movie details, including full cast and crew, and if the movie belongs to a collection
-- View list of movies for cast/crew member
-- View list of movies in collection
-- Rate movies 😀 (Good) or 😐 (OK/Bad)
-- Get movie recommendations based on your ratings
-- Mobile and desktop friendly
-- Automatic light/dark mode according to browser setting
-
 ## Screenshots of deployed web app
 
 <table>
@@ -33,6 +21,17 @@ Author: Peter Bollhorn
 </tr>
 </table>
 
+## Features
+
+- Search ~90,000 movies via trigram-based fuzzy search
+- View movie posters
+- View movie details, including full cast and crew, and if the movie belongs to a collection
+- View list of movies for cast/crew member
+- View list of movies in collection
+- Rate movies 😀 (Good) or 😐 (OK/Bad)
+- Get movie recommendations based on your ratings
+- Mobile and desktop friendly
+- Automatic light/dark mode according to browser setting
 
 ## Tech Stack
 
