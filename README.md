@@ -24,7 +24,7 @@ Author: Peter Bollhorn
 
 ## Screenshots of deployed web app
 
-<table>
+<table cellpadding="10">
 <tr>
   <td><img src="screenshots/screenshot1.jpg" width="100"></td>
   <td><img src="screenshots/screenshot2.jpg" width="100"></td>
