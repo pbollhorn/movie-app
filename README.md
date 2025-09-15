@@ -26,10 +26,10 @@ Author: Peter Bollhorn
 
 <table>
 <tr>
-  <td ><img src="screenshots/screenshot1.jpg" width="100" style="margin: 10px;"></td>
-  <td style="padding: 10px;"><img src="screenshots/screenshot2.jpg" width="100"></td>
-  <td style="padding: 10px;"><img src="screenshots/screenshot3.jpg" width="100"></td>
-  <td style="padding: 10px;"><img src="screenshots/screenshot4.jpg" width="100"></td>
+  <td><img src="screenshots/screenshot1.jpg" width="100"></td>
+  <td><img src="screenshots/screenshot2.jpg" width="100"></td>
+  <td><img src="screenshots/screenshot3.jpg" width="100"></td>
+  <td><img src="screenshots/screenshot4.jpg" width="100"></td>
 </tr>
 </table>
 
