@@ -35,23 +35,23 @@ Author: Peter Bollhorn
 - VS Code – as the code editor
 
 ### Backend
-- **Java 17** - Programming language
-- **Maven** - Build tool and dependency management
-- **Javalin** - Lightweight web framework
-- **Hibernate** - ORM for database access
-- **SLF4J/Logback** - Logging
-- **Jackson** - JSON serialization/deserialization
-- **Lombok** - Reduces boilerplate code
+- Java 17 - Programming language
+- Maven - Build tool and dependency management
+- Javalin - Lightweight web framework
+- Hibernate - ORM for database access
+- SLF4J/Logback - Logging
+- Jackson - JSON serialization/deserialization
+- Lombok - Reduces boilerplate code
 
 ### Database
-- **PostgreSQL** - Relational database
+- PostgreSQL 16 - Relational database
 - pg_trgm - Extension used for trigram-based fuzzy search
 
 ### Deployment & Hosting
 - GitHub Action (CI/CD pipeline)
 - Docker / Docker Compose
 - DigitalOcean - Cloud hosting provider
-- Ubuntu - OS running on the cloud server (DigitalOcean Droplet)
+- Ubuntu 22 - OS running on the cloud server (DigitalOcean Droplet)
 
 ### Tools
 - VS Code – For frontend development
