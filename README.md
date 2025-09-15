@@ -54,9 +54,9 @@ Author: Peter Bollhorn
 - Ubuntu
 
 ### Tools
-- IntelliJ IDEA – for backend development
-- VS Code – for frontend development
-- pgAdmin – for database management
+- VS Code – For frontend development
+- IntelliJ IDEA – For backend development
+- pgAdmin – For database management
 
 ## TMDB (The Movie Database)
 This web app uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB.
