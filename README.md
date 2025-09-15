@@ -51,7 +51,7 @@ Author: Peter Bollhorn
 - GitHub Action (CI/CD pipeline)
 - Docker / Docker Compose
 - DigitalOcean - Cloud hosting provider
-- Ubuntu 22 - OS running on the cloud server (DigitalOcean Droplet)
+- Ubuntu 22 - OS running on the cloud server
 
 ### Tools
 - VS Code – For frontend development
