@@ -57,8 +57,8 @@ Author: Peter Bollhorn
 - DigitalOcean - Cloud hosting provider
 - Ubuntu 22 - OS running on the cloud server
 - Docker - For containerization
-- Jetty (embedded in Javalin) - For serving the backend
 - Caddy - For serving the frontend, reverse proxy and automatic HTTPS certificate
+- Jetty (embedded in Javalin) - For serving the backend
 
 ### Tools
 - VS Code - For frontend development
