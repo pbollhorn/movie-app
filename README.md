@@ -22,6 +22,18 @@ Author: Peter Bollhorn
 - Mobile and desktop friendly
 - Automatic light/dark mode according to browser setting
 
+<table>
+<tr>
+  <td><img src="screenshots/screenshot1.png" width="200"></td>
+  <td><img src="screenshots/screenshot2.png" width="200"></td>
+</tr>
+<tr>
+  <td><img src="screenshots/screenshot3.png" width="200"></td>
+  <td><img src="screenshots/screenshot4.png" width="200"></td>
+</tr>
+</table>
+
+
 ## Tech Stack
 
 ### Frontend
