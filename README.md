@@ -38,8 +38,8 @@ Author: Peter Bollhorn
 
 ### Frontend
 - React 19 - JavaScript library for building UI
-- CSS Modules - For scoped and modular styling
 - React Router DOM - For client-side routing
+- CSS Modules - For scoped and modular styling
 
 ### Backend
 - Java 17 - Programming language
