@@ -36,7 +36,7 @@ Author: Peter Bollhorn
 ## Tech Stack
 
 ### Frontend
-- React 19 - JavaScript library for building UI
+- React 19 - JavaScript UI library
 - React Router DOM - For client-side routing
 - CSS Modules - For scoped and modular styling
 
@@ -52,7 +52,7 @@ Author: Peter Bollhorn
 - PostgreSQL 16 - Relational database
 - pg_trgm - Extension used for trigram-based fuzzy search
 
-### Deployment & Hosting
+### Deployment
 - GitHub Actions - For CI/CD pipeline
 - DigitalOcean - Cloud hosting provider
 - Ubuntu 22 - OS running on the cloud server
