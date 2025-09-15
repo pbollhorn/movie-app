@@ -43,12 +43,11 @@ Author: Peter Bollhorn
 
 ### Backend
 - Java 17 - Programming language
-- Maven - Build tool and dependency management
 - Javalin - Lightweight web framework
-- Hibernate - ORM for database access
-- SLF4J/Logback - Logging
 - Jackson - JSON serialization/deserialization
-- Lombok - Reduces boilerplate code
+- SLF4J/Logback - Logging
+- Maven - Build tool and dependency management
+- Hibernate - ORM for database access
 
 ### Database
 - PostgreSQL 16 - Relational database
@@ -59,6 +58,8 @@ Author: Peter Bollhorn
 - DigitalOcean - Cloud hosting provider
 - Ubuntu 22 - OS running on the cloud server
 - Docker - For containerization
+- Jetty - For serving the backend
+- Caddy - For serving the frontend
 
 ### Tools
 - VS Code - For frontend development
