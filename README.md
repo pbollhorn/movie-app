@@ -14,10 +14,10 @@ Author: Peter Bollhorn
 
 <table>
 <tr>
-  <td><img src="screenshots/screenshot1.jpg" width="500"></td>
-  <td><img src="screenshots/screenshot2.jpg" width="500"></td>
-  <td><img src="screenshots/screenshot3.jpg" width="500"></td>
-  <td><img src="screenshots/screenshot4.jpg" width="500"></td>
+  <td><img src="screenshots/screenshot1.jpg" width="300"></td>
+  <td><img src="screenshots/screenshot2.jpg" width="300"></td>
+  <td><img src="screenshots/screenshot3.jpg" width="300"></td>
+  <td><img src="screenshots/screenshot4.jpg" width="300"></td>
 </tr>
 </table>
 
@@ -68,4 +68,4 @@ Author: Peter Bollhorn
 ## TMDB (The Movie Database)
 This web app uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB.
 
-Link to TMDB: https://www.themoviedb.org/
+Link to TMDB: https://www.themoviedb.org
