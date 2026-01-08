@@ -55,7 +55,7 @@ Author: Peter Bollhorn
 ### Deployment
 - GitHub Actions - For CI/CD pipeline
 - Hetzner - Cloud hosting provider
-- Ubuntu 24 - OS running on the cloud server
+- Ubuntu 24.04 LTS - OS running on the cloud server
 - Docker - For containerization
 - Caddy - For serving the frontend, reverse proxy and automatic HTTPS certificate
 - Jetty (embedded in Javalin) - For serving the backend
